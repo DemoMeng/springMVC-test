@@ -1,4 +1,4 @@
-package org.fkit.controller;
+﻿package org.fkit.controller;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
@@ -18,8 +18,11 @@ import org.springframework.web.servlet.mvc.Controller;
 
 /**
  *  HelloController是一个实现Controller接口的控制器,
- *  可以处理一个单一的请求动作
+ *  可以处理一个单一的请求动作  AAAAAAAAAAAAAAAAAAA
  */
+
+
+
 public class HelloController implements Controller{
 	 private static final Log logger = LogFactory
 	            .getLog(HelloController.class);
